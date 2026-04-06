@@ -28,3 +28,4 @@ C:\Users\ahmad\Desktop\DevOps Imp\ahma_quiz4_dotnet\ahma_quiz4_dotnet\obj\Debug\
 C:\Users\ahmad\Desktop\DevOps Imp\ahma_quiz4_dotnet\ahma_quiz4_dotnet\obj\Debug\net8.0\ahma_quiz4_dotnet.pdb
 C:\Users\ahmad\Desktop\DevOps Imp\ahma_quiz4_dotnet\ahma_quiz4_dotnet\obj\Debug\net8.0\ahma_quiz4_dotnet.genruntimeconfig.cache
 C:\Users\ahmad\Desktop\DevOps Imp\ahma_quiz4_dotnet\ahma_quiz4_dotnet\obj\Debug\net8.0\ref\ahma_quiz4_dotnet.dll
+C:\Users\ahmad\Desktop\DevOps Imp\ahma_quiz4_dotnet\ahma_quiz4_dotnet\obj\Debug\net8.0\ahma_quiz4_dotnet.sourcelink.json
