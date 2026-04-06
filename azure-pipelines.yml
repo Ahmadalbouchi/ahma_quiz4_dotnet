@@ -13,13 +13,13 @@ steps:
     packageType: 'sdk'
     version: '8.x'
 
-- script: dotnet restore
+- script: dotnet restore ahma_quiz4_dotnet.csproj
   displayName: 'Restore'
 
-- script: dotnet build --configuration $(buildConfiguration) --no-restore
+- script: dotnet build ahma_quiz4_dotnet.csproj --configuration $(buildConfiguration) --no-restore
   displayName: 'Build'
 
-- script: dotnet publish --configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)
+- script: dotnet publish ahma_quiz4_dotnet.csproj --configuration $(buildConfiguration) --output "$(Build.ArtifactStagingDirectory)" --no-build
   displayName: 'Publish'
 
 - task: PublishBuildArtifacts@1
